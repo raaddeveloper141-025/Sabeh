@@ -3,7 +3,7 @@
   "latest_version_name": "1.0",
   "download_url": "https://www.youtube.com/@Raad025",
   "latest_new_features": "• هذا نص قسم جديد\n• This is New categeroy test text.",
-  "latest_updated_features": "",
-  "latest_fixed_features": "",
+  "latest_updated_features": "• هذا نص قسم محدث\n• This is Updated categeroy test text.",
+  "latest_fixed_features": "• هذا نص قسم إصلاحــات\n• This is fixes categeroy test text.",
   "is_force_update": false
 }
